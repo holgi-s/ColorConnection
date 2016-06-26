@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ColorConnection</string>
+    <string name="service_id" translatable="false">com.holgis.color_service</string>
+
+    <string name="title_activity_controller">Color Controller</string>
+    <string name="title_activity_color">Color Light</string>
+    <string name="title_fragment_controller">Controller</string>
+    <string name="title_fragment_light_list">Lights List</string>
+
+    <string name="dummy_content">NOT\nCONNECTED</string>
+    <plurals name="color_count">
+        <item quantity="one">1 light connected</item>
+        <item quantity="other">%d lights connected</item>
+    </plurals>
+
+</resources>
